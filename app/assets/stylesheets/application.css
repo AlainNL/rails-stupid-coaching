@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.answer {
+  background-color: #FFFEE1;
+  border-left: 5px solid grey;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.questions {
+  border-left: 5px solid grey;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
